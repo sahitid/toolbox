@@ -45,14 +45,6 @@ export default [
         forUseBy: "clubbers",
       },
       {
-        name: "Boba Drops",
-        description: "Give your club an unfair advantage with free boba",
-        icon: "rep",
-        external: true,
-        url: "https://hack.club/boba",
-        forUseBy: "clubbers",
-      },
-      {
         name: "Code Crafters",
         description: "Code crafters free 2 years free membership",
         icon: "code",
